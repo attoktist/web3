@@ -1,0 +1,32 @@
+#sap {
+  display: block;
+  margin: 0 auto;
+  position: absolute;
+  left: 0pt;
+  top: 120pt;
+  height: 320pt;
+  width: 320pt; }
+
+.sp {
+  display: block;
+  margin: 0 auto;
+  position: absolute;
+  left: 0pt;
+  top: 120pt;
+  height: 320pt;
+  width: 320pt; }
+
+img {
+  margin: 0,0,0,0;
+  width: 32pt;
+  height: 32pt; }
+
+#tab {
+  position: absolute;
+  top: 50pt;
+  left: 500pt; }
+
+#bm {
+  position: absolute;
+  top: 10pt;
+  left: 250pt; }

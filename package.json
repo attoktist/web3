@@ -1,0 +1,24 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"error\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attoktist/rgrweb.git"
+  },
+  "author": "this",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attoktist/rgrweb/issues"
+  },
+  "homepage": "https://github.com/attoktist/rgrweb#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
